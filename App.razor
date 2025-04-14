@@ -1,10 +1,12 @@
+@using GustavoPonceLanding_CVCompleto.Shared // Asegúrate de usar el namespace correcto
+@using Microsoft.AspNetCore.Components.Routing
+@using GustavoPonceLanding_CVCompleto
+
 <Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
-        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+        <RouteView RouteData="@routeData" DefaultLayout="typeof(MainLayout)" />
     </Found>
     <NotFound>
-        <LayoutView Layout="@typeof(MainLayout)">
-            <p>Página no encontrada.</p>
-        </LayoutView>
+        <h1>404 - Página no encontrada</h1>
     </NotFound>
 </Router>
