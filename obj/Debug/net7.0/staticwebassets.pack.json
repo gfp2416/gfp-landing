@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
+      "Id": "D:\\PROGRAMACION\\LANDING PAGE MIA GFP\\GustavoPonceLanding_CVCompleto\\obj\\Debug\\net7.0\\build-gz\\g5lRbvoR.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\PROGRAMACION\\LANDING PAGE MIA GFP\\GustavoPonceLanding_CVCompleto\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PROGRAMACION\\LANDING PAGE MIA GFP\\GustavoPonceLanding_CVCompleto\\wwwroot\\img\\tech-background.png",
+      "PackagePath": "staticwebassets\\img\\tech-background.png"
+    },
+    {
       "Id": "D:\\PROGRAMACION\\LANDING PAGE MIA GFP\\GustavoPonceLanding_CVCompleto\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\PROGRAMACION\\LANDING PAGE MIA GFP\\GustavoPonceLanding_CVCompleto\\wwwroot\\tech-bg.svg",
+      "PackagePath": "staticwebassets\\tech-bg.svg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GustavoPonceLanding_CVCompleto.Microsoft.AspNetCore.StaticWebAssets.props",

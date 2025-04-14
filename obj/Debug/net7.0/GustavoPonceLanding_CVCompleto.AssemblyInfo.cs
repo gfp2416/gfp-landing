@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GustavoPonceLanding_CVCompleto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0facbe3e1d1899ebbf4e2af127792d3bd8a2fe4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GustavoPonceLanding_CVCompleto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GustavoPonceLanding_CVCompleto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

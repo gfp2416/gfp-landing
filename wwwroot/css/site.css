@@ -1,12 +1,25 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	scroll-behavior: smooth;
+}
+
 body {
-    background-color: #121212;
-    color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('tech-bg.svg');
-    background-size: cover;
+    background-color: #0f0f0f;
+    background-image: url('../img/tech-background.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed; /* esto es importante para que no desaparezca */
+    background-position: center;
+    color: #f0f0f0;
 }
 .navbar {
     background-color: rgba(0, 0, 0, 0.8);
+}
+
+.section {
+    padding: 100px 20px;
+    min-height: 100vh;
 }
