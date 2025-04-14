@@ -1,0 +1,12 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('tech-bg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8);
+}
